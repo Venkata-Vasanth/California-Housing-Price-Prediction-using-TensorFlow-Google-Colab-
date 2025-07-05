@@ -6,7 +6,7 @@ A simple TensorFlow regression model using the **California Housing Dataset** to
 
 ## 🚀 Run on Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([(https://colab.research.google.com/drive/1jkdAp3gYHQl2guH5m56W7xk3pQ0cqo-m?usp=sharing)])
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/1jkdAp3gYHQl2guH5m56W7xk3pQ0cqo-m?usp=sharing))
 
 > Click to open and run instantly in your browser, no setup required.
 
